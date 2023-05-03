@@ -14,4 +14,3 @@ Hello, i am Seisenbay Nurzhan, a ardent software engineer, from Kazakhstan
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
